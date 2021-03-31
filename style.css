@@ -1,0 +1,11 @@
+#body_background {
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-primary {
+    border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+}
